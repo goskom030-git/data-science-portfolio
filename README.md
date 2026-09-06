@@ -1,21 +1,21 @@
-# 🚀 Data Science & Machine Learning Portfolio
+# Data Science & Machine Learning Portfolio
 
-Добро пожаловать в репозиторий-портфолио прикладных проектов по **Data Science, Machine Learning и Аналитике данных**!
+Репозиторий содержит прикладные проекты по направлениям **Data Science, Machine Learning, MLOps и Аналитика данных**.
 
-Здесь собраны **11 законченных практических кейсов**, охватывающих ключевые направления: кредитный и поведенческий скоринг, MLOps-пайплайны, A/B-тестирование, временные ряды, регрессионный анализ и компьютерное зрение.
-
----
-
-## 🌟 Флагманский проект (ML & MLOps Service)
-
-> 🏆 **[StayAI SmartScore: Production ML Service](https://github.com/goskom030-git/stayai-ml-service)**  
-> Полноценный микросервис скоринга объявлений аренды жилья: **Apache Airflow DAG**, интеграция с **PostgreSQL** и **S3 Object Storage**, модель **LightGBM** (Optuna tuning, SHAP), автоматическая предобработка и батч-инференс.
+Портфолио включает **11 практических кейсов**: кредитный и поведенческий скоринг, MLOps-пайплайны, A/B-тестирование, временные ряды, регрессионный анализ и компьютерное зрение.
 
 ---
 
-## 📊 Реестр проектов портфолио
+## Флагманский проект (ML & MLOps Service)
 
-| № | Направление / Задача | Проект | Ключевой стек | Ключевые метрики | Ссылка |
+> **[StayAI SmartScore: Production ML Service](https://github.com/goskom030-git/stayai-ml-service)**  
+> Микросервис скоринга объявлений аренды жилья: **Apache Airflow DAG**, интеграция с **PostgreSQL** и **S3 Object Storage**, модель **LightGBM** (Optuna tuning, SHAP), автоматическая предобработка и батч-инференс.
+
+---
+
+## Реестр проектов
+
+| № | Направление / Задача | Проект | Ключевой стек | Метрики | Ссылка |
 |:---:|:---|:---|:---|:---:|:---:|
 | **01** | **Fintech / Scoring** | Поведенческий скоринг клиентов банка (90+ default) | CatBoost, Optuna, Scikit-learn, Time Split | **ROC-AUC: 0.77**<br>F1: 0.65 | [Открыть кейс](projects/01_credit_and_behavioral_scoring/) |
 | **02** | **Hospitality / ML** | Прогнозирование риска отмены бронирований отелей | LightGBM, CatBoost, PostgreSQL, merge_asof | **ROC-AUC: 0.84**<br>F1: 0.76 | [Открыть кейс](projects/02_hotel_booking_cancellation_risk/) |
@@ -31,14 +31,14 @@
 
 ---
 
-## 🛠 Технологический стек
+## Технологический стек
 
-* **Языки:** Python (Pandas, NumPy, Scipy, Statsmodels)
-* **Machine Learning & DL:** LightGBM, CatBoost, Scikit-learn, Optuna, PyTorch, SHAP
-* **Data Engineering & MLOps:** Apache Airflow, PostgreSQL, S3 Object Storage, Joblib, Docker
-* **Визуализация & Анализ:** Matplotlib, Seaborn, Plotly, Jupyter Notebooks
+* **Языки и библиотеки анализа:** Python, Pandas, NumPy, SciPy, Statsmodels
+* **Machine Learning & Deep Learning:** LightGBM, CatBoost, Scikit-learn, Optuna, PyTorch, SHAP
+* **Data Engineering & MLOps:** Apache Airflow, PostgreSQL, S3 (Object Storage), Joblib, Docker
+* **Визуализация:** Matplotlib, Seaborn, Plotly
 
 ---
 
-## 📬 Контакты
+## Контакты
 * **GitHub:** [@goskom030-git](https://github.com/goskom030-git)
